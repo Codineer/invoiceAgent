@@ -5,7 +5,7 @@ import datetime
 
 app = FastAPI()
 
-BASE_URL = "https://YOUR-APP.onrender.com/a2a/"
+BASE_URL = "https://invoiceagent-t8md.onrender.com/a2a/"
 
 tasks = {}
 
